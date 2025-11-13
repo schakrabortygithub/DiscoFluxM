@@ -1,8 +1,8 @@
 # DiscoFluxM: Dislocation Transport-based Crystal Plasticity material model
 
-# LANL code no: O4684
+LANL code no: O4684
 All right belongs to Los Alamos National Laboratory(LANL)
-Also hosted at LANl Github page: https://github.com/lanl/DiscoFluxM
+Also hosted at LANL Github page: [https://github.com/lanl/DiscoFluxM](https://github.com/lanl/DiscoFluxM)
 =====
 This is a Dislocation Transport-based Crystal Plasticity Material Model(DiscoFlux), implemented within MOOSE framework(https://mooseframework.inl.gov/index.html).
 
